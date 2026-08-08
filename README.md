@@ -119,4 +119,4 @@ The project demonstrates practical experience in Flutter application development
 
 Flutter Developer focused on building cross-platform mobile applications with Flutter and Dart.
 
-GitHub: https://github.com/mobinaft81
+GitHub: https://github.com/MbinaFetrati
