@@ -1,10 +1,10 @@
-FarAzmoon — Online Examination Platform
+# FarAzmoon — Online Examination Platform
 
 A cross-platform online examination and assessment application built with **Flutter and Dart** for educational institutions.
 
 FarAzmoon provides a structured environment for conducting online exams, managing educational content, and tracking student performance.
 
-✨ Features
+## ✨ Features
 
 * 📝 Online examinations and quizzes
 * 👨‍🏫 Instructor management panel
