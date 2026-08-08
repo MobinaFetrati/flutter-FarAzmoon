@@ -86,7 +86,7 @@ Make sure you have Flutter and Dart installed on your development environment.
 Clone the repository:
 
 ```bash
-git clone https://github.com/MbinaFetrati/flutter-FarAzmoon.git
+git clone https://github.com/MobinaFetrati/flutter-FarAzmoon.git
 ```
 
 Navigate to the project directory:
@@ -119,4 +119,4 @@ The project demonstrates practical experience in Flutter application development
 
 Flutter Developer focused on building cross-platform mobile applications with Flutter and Dart.
 
-GitHub: [https://github.com/MbinaFetrati](https://github.com/MobinaFetrati)
+GitHub: [https://github.com/MobinaFetrati](https://github.com/MobinaFetrati)
